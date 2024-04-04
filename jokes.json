@@ -84,6 +84,34 @@
     "response":"One requires tweetment and the other oinkment"
   },
   {
+    "prompt":"Why did Waldo go to therapy?",
+    "response":"Because he needed to find himself"
+  },
+  {
+    "prompt":"Why do cows have hooves?",
+    "response":"Because they lack toes"
+  },
+  {
+    "prompt":"Who's Olaf the Snowman's favorite relative?",
+    "response":"Aunt Arctica"
+  },
+  {
+    "prompt":"Where do rabbits go after they get married?",
+    "response":"On a bunny-moon"
+  },
+  {
+    "prompt":"What is a truck drivers favorite day of the year?",
+    "response":"10-4, good buddy"
+  },
+  {
+    "prompt":"What's gray, has four legs, and a trunk?",
+    "response":"A mouse going on a holiday"
+  },
+  {
+    "prompt":"How does a T-Rex cut down a tree?",
+    "response":"With a dino-saw"
+  },
+  {
     "prompt":"",
     "response":""
   },
