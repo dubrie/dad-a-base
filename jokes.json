@@ -101,7 +101,11 @@
   },
   {
     "prompt":"What is a truck drivers favorite day of the year?",
-    "response":"10-4, good buddy"
+    "response":"10-4 (October 4th), good buddy"
+  },
+  {
+    "prompt":"What is a European truck drivers favorite day of the year?",
+    "response":"4-10 (April 10th), good buddy"
   },
   {
     "prompt":"What's gray, has four legs, and a trunk?",
