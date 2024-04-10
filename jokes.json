@@ -116,6 +116,9 @@
     "response":"With a dino-saw"
   },
   {
+    "prompt":"Which country has the worst singers?",
+    "response":"Singapore"
+  },  {
     "prompt":"",
     "response":""
   },
