@@ -118,7 +118,16 @@
   {
     "prompt":"Which country has the worst singers?",
     "response":"Singapore"
-  },  {
+  },  
+  {
+    "prompt":"Why are elevator jokes the best jokes?",
+    "response":"Because they work on many levels"
+  },  
+  {
+    "prompt":"Where does a man-splainer get his water?",
+    "response":"From a well, actually"
+  },
+  {
     "prompt":"",
     "response":""
   },
