@@ -168,6 +168,10 @@
     "response":"Poetry!"
   },
   {
+    "prompt":"What’s Big Ben’s last name?",
+    "response":"Isabel"
+  },
+  {
     "prompt":"",
     "response":""
   },
